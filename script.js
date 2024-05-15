@@ -252,10 +252,6 @@ function restart() {
   goTown();
 }
 
-function easterEgg() {
-  update(locations[7]);
-}
-
 function pickTwo() {
   pick(2);
 }
